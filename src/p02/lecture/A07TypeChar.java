@@ -17,7 +17,7 @@ public class A07TypeChar {
 		
 		// java 문자
 		char charVar;
-//		charVar = "a"; // 하나의 문자는 큰따옴표 not ok
+//		charVar = "a"; // 따옴표 not ok
 		charVar = 'a'; // char literal
 		charVar = '눈';
 		System.out.println(charVar);
