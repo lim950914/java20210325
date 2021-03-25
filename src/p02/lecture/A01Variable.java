@@ -10,7 +10,7 @@ public class A01Variable {
 		// 변수명 작성 규칙:
 		// $,_, 영문대소문자, 숫자 조합
 		// 숫자가 앞에 오면 안됨.
-		// 작성 관슴: lowerCamelCase
+		// 작성 관습: lowerCamelCase
 		
 		// type : 기본타입(8개), 참조타입(챕터5)
 		// 기본타입8개: byte, short, int, long
