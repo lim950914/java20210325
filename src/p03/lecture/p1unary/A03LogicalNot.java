@@ -9,9 +9,9 @@ public class A03LogicalNot {
 		
 		boolean b = true;
 		boolean c = !b;
-		System.out.println(c);
+		System.out.println(c); // false
 		
 		boolean d = !c;
-		System.out.println(d);
+		System.out.println(d); // true
 	}
 }

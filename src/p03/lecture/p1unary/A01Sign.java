@@ -8,9 +8,9 @@ public class A01Sign {
 		
 		int a = -y;
 		
-		System.out.println(x);
-		System.out.println(y);
-		System.out.println(z);
-		System.out.println(a);
+		System.out.println(x); // 100
+		System.out.println(y); // -100
+		System.out.println(z); // -100
+		System.out.println(a); // 100
 	}
 }
