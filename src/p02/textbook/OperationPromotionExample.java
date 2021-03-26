@@ -20,7 +20,7 @@ public class OperationPromotionExample {
 		System.out.println(intValue4);
 		
 		int intValue5 = 10;
-		// int intValue6 = 10 / 4.0; // 컴파일 에러
+		// int intValue6 = 10 / 4.0; // 컴파일 에러 
 	    double doubleValue = intValue5 / 4.0;
 	    System.out.println(doubleValue);
 		
