@@ -25,7 +25,7 @@ public class A14TypeConversion {
 		int res = b1 + b2;
 		
 		char c1 = 'a';
-//		char c2 = c1 + 1;//
+//		char c2 = c1 + 1;// /
 		
 		byte b4 = 3 + 1;
 		char c3 = 'a' + 1;

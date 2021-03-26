@@ -75,7 +75,7 @@ public class Solution01 {
 		float floatValue8 = 2.5F;
 		double doubleValue8 = 2.5;
 		
-//		byte result = byteValue8 + byteValue8;
+//		byte result = byteValue8 + byteValue8; 
 		int result2 = 5 + byteValue8;
 		float result3 = 5 + floatValue8;
 		double result4 = 5 + doubleValue8;
