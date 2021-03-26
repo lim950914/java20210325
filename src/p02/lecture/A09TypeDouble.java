@@ -3,7 +3,7 @@ package p02.lecture;
 public class A09TypeDouble {
 	public static void main(String[] args) {
 		// double: 8byte (64bit) 실수 저장
-		
+		// double 주로 사용
 		double v = 3.14; // 실수 literal은 double
 		
 		// 양의 최대값
