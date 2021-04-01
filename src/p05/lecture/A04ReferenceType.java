@@ -7,6 +7,7 @@ public class A04ReferenceType {
 		int j = i;
 		
 		String s = new String("java");
+		// String 은 new 연산자 생략가능하다
 		String t = s;
 		
 		System.out.println(i == j);

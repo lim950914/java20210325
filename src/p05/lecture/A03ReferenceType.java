@@ -11,6 +11,6 @@ public class A03ReferenceType {
 		
 		System.out.println(i == j);
 		System.out.println(s == t); // false
-		// s객체와 t객체의 주소번호가 다르기 때문에 false가 된다.
+		// s객체와 t객체의 주소값이 다르기 때문에 false가 된다.
 	}
 }

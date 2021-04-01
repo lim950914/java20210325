@@ -22,5 +22,6 @@ public class A01ReferenceType {
 		// 예제(참조타입)
 		Scanner scanner;
 		scanner = new Scanner(System.in);
+		// 객체 : 필드 메소드 프로퍼티
 	}
 }
