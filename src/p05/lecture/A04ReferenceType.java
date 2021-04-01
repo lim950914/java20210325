@@ -12,6 +12,6 @@ public class A04ReferenceType {
 		
 		System.out.println(i == j);
 		System.out.println(s == t); // true
-		// s객체 t객체 둘다 같은 주소값을 같게되어 true
+		// s객체 t객체 둘다 같은 참조(주소)값을 같게되어 true
 	}
 }
