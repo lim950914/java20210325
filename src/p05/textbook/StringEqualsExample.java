@@ -2,7 +2,7 @@ package p05.textbook;
 
 public class StringEqualsExample {
 	public static void main(String[] args) {
-		String strVar1 = "신민철";
+		String strVar1 = "신민철"; // new String 로 담은게 아니라 참조가 같다
 		String strVar2 = "신민철";
 		
 		if (strVar1 == strVar2) {

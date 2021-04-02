@@ -6,7 +6,7 @@ public class A02ReferenceType {
 		i = 3;
 
 		String s;
-		s = new String("java");
+		s = new String("java"); // new String 새로운 인스턴트 생성
 		
 		// String : 타입
 		// s : 참조변수

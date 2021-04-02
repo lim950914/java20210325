@@ -1,7 +1,7 @@
 package p05.lecture;
 
 public class A06StringEquals {
-	// 그림 : 05.tringEquals.png
+	// 그림 : 05.StringEquals.png
 	public static void main(String[] args) {
 		String s = new String("java");
 		String t = "java";
