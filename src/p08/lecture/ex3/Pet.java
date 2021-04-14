@@ -1,5 +1,5 @@
 package p08.lecture.ex3;
 
-public class Pet {
+public interface Pet {
 	void sit();
 }

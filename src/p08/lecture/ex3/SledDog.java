@@ -1,5 +1,5 @@
 package p08.lecture.ex3;
 
-public class SledDog {
+public interface SledDog {
 	void pull();
 }
