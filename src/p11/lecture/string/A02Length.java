@@ -1,5 +1,6 @@
 package p11.lecture.string;
 
+
 public class A02Length {
 	public static void main(String[] args) {
 		String str1 = "java servlet spring";
