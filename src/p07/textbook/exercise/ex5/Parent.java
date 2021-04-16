@@ -1,4 +1,4 @@
-package p07.textbook.exercise.ex05;
+package p07.textbook.exercise.ex5;
 
 public class Parent {
 	public String name;

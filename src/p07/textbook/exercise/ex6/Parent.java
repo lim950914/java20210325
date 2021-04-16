@@ -1,4 +1,4 @@
-package p07.textbook.exercise.ex06;
+package p07.textbook.exercise.ex6;
 
 public class Parent {
 	public String nation;
