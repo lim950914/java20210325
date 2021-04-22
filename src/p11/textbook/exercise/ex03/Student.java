@@ -1,4 +1,4 @@
-package p11.textbook.exercise.ex3;
+package p11.textbook.exercise.ex03;
 
 public class Student {
 	private String studentNum;
