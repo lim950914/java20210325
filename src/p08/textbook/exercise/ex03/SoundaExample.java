@@ -1,4 +1,4 @@
-package p08.textbook.exercis.ex03;
+package p08.textbook.exercise.ex03;
 
 public class SoundaExample {
 	private static void printSound(Soundable soundable) {

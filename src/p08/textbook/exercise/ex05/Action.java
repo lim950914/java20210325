@@ -1,4 +1,4 @@
-package p08.textbook.exercis.ex05;
+package p08.textbook.exercise.ex05;
 
 public interface Action {
 	void work();

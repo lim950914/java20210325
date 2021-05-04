@@ -17,5 +17,5 @@ public class Solution0106 {
 	// 답 : 3번 --> ObjectInputStream, ObjectOutputStream
 	
 	// 6번 문제
-	// 답 : 
+	// 답 : 3번
 }

@@ -1,4 +1,4 @@
-package p08.textbook.exercis.ex04;
+package p08.textbook.exercise.ex04;
 
 public class DaoExample {
 	public static void dbWork(DataAccessObject dao) {
